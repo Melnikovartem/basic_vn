@@ -1,0 +1,67 @@
+{
+"@path": "res://addons/dialogic/Resources/character.gd",
+"@subpath": NodePath(""),
+"_translation_id": "",
+"color": Color(1, 0.14902, 0.14902, 1),
+"custom_info": {
+"sound_mood_default": "",
+"sound_moods": {},
+"style": ""
+},
+"default_portrait": "cheering",
+"description": "",
+"display_name": "Mario",
+"mirror": false,
+"nicknames": [""],
+"offset": Vector2(0, 0),
+"portraits": {
+"2d_standing": {
+"export_overrides": {
+"image": "\"res://Data/Characters/mario_2d_everything.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"art_thinking": {
+"export_overrides": {
+"image": "\"res://Data/Characters/mario_art_thinking.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"cheering": {
+"export_overrides": {
+"image": "\"res://Data/Characters/mario_3d_cherring.png\""
+},
+"ignore_char_scale": false,
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1.0,
+"scene": ""
+},
+"flying": {
+"export_overrides": {
+"image": "\"res://Data/Characters/mario_3d_flying.png\""
+},
+"ignore_char_scale": false,
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1.0,
+"scene": ""
+},
+"running": {
+"export_overrides": {
+"image": "\"res://Data/Characters/mario_3d_running.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+}
+},
+"scale": 1.0
+}
