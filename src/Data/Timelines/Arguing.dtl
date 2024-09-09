@@ -1,8 +1,7 @@
 join mario_3d (running) 2 [animation="Slide In Left" length="1.5"]
 mario_3d: It's me Mario!
 [wait time="1.0"]
-mario_3d (cheering): Let's commit mass murder
-[wait time="0.0"]
+Let's commit mass murder
 update mario_3d (flying) [animation="Bounce" length="1" wait="true"]
 leave mario_3d [animation="Slide Out Up" length="3"]
 That day {range(0, 10000).pick_random()} civilians died
